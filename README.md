@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Souvik Chakraborty</h1>
 <h3 align="center">A passionate researcher from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaks1603&label=Profile%20views&color=0e75b6&style=flat" alt="chaks1603" /> </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e6/22/3a/e6223ab875b7cb0588df8492d6d44d16.gif">
-
 
 - 🔭 I’m currently working on **Steller Physics and Evaluation**
 
@@ -20,6 +18,9 @@
 - 📫 How to reach me **chaks1603@gmail.com**
 
 - ⚡ Fun fact **I think out of the box**
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e6/22/3a/e6223ab875b7cb0588df8492d6d44d16.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
