@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Souvik Chakraborty</h1>
 <h3 align="center">A passionate researcher from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaks1603&label=Profile%20views&color=0e75b6&style=flat" alt="chaks1603" /> </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/Chaks1603/Storage/blob/main/animated-lorenz-attractor.gif"> 
+<img align="right" alt="Coding" width="300" src="https://github.com/Chaks1603/Storage/blob/main/animated-lorenz-attractor.gif"> 
 
 - 🔭 I’m currently working on **Steller Physics and Evoluation**
 
