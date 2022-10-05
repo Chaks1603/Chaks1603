@@ -1,11 +1,12 @@
 [![MasterHead](https://i.pinimg.com/originals/42/6f/b0/426fb0ae51439e6734c60e7d9ce50e02.gif )](https://Chaks1603.io)
+<img align="right" alt="Coding" width="250" src="https://github.com/Chaks1603/Storage/blob/main/animated-lorenz-attractor.gif"> 
 
 <h1 align="center">Hi 👋, I'm Souvik Chakraborty</h1>
 <h3 align="center">A passionate researcher from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaks1603&label=Profile%20views&color=0e75b6&style=flat" alt="chaks1603" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e6/22/3a/e6223ab875b7cb0588df8492d6d44d16.gif">
-<img align="right" alt="Coding" width="400" src="http://localhost:8888/files/Documents/Python%20Jupyter%20Lab/caos%20attactor/images/animated-lorenz-attractor.gif">
+
+
 - 🔭 I’m currently working on **Steller Physics and Evaluation**
 
 - 🌱 I’m currently learning **Machine Learning and Ethical Hacking**
