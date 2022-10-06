@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **chaks1603@gmail.com**
 
-- ⚡ Fun fact **I think out of the box**
+- ⚡ Fun fact **$\textit{I am not lazy, I am overflowing with U = mgh}$**
 
 
 
