@@ -25,10 +25,6 @@
 <h3 align="left"> Certifications : </h3>
 <p align="left">
 </p>
-<img width="500" align="left" src="https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/223808779_1537996793199463_7732905462009912513_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=730e14&_nc_ohc=Co0BJaErYkMAX_YRD8D&_nc_ht=scontent.fccu3-1.fna&oh=00_AT-0eBs-4rTItl33OWdBtegYmv7pG3tVAYtLw2leLYaQzA&oe=6341D0F9">
-
-<img width="500" align="right" src="https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/224263953_1537989116533564_6902723566323286170_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=QkPETALDbIIAX-nN5Rk&tn=SUf-6u08tFh0WTmJ&_nc_ht=scontent.fccu3-1.fna&oh=00_AT9DU71nih1txbOOUJtHNKYO9EMeuuZcDSQJ8k5FF6dtPg&oe=634245F4">
-
 <img width="500" align="left" src="https://scontent.fccu3-1.fna.fbcdn.net/v/t1.6435-9/138133976_1399464367052707_2855884006662982705_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=palncSVdRh8AX9xFesB&_nc_ht=scontent.fccu3-1.fna&oh=00_AT8wc0849btXRGnn7h22Hh2gOQ-FFkGWBMDA1_1FnvlncA&oe=6364A64F">
 
 <h3 align="left">Languages and Tools:</h3>
