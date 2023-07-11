@@ -7,9 +7,9 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/62/b7/4e/62b74ef25366e34a9f7ae84d5744cba3.gif"> 
 
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f1/6b/85/f16b85e9f069bab0130ac11a9ffe9a5a.gif">
+<img align="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/f1/6b/85/f16b85e9f069bab0130ac11a9ffe9a5a.gif">
 
-<img align="right" alt="Coding" width="300" src="https://github.com/Chaks1603/Non-Linear-Dynamics-Chaos/blob/main/animated-lorenz-attractor.gif">
+<img align="left" alt="Coding" width="300" src="https://github.com/Chaks1603/Non-Linear-Dynamics-Chaos/blob/main/animated-lorenz-attractor.gif">
 
 - 🔭 I’m currently working on **Steller Physics and Evoluation**
 
