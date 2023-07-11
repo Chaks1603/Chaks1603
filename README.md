@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Souvik Chakraborty</h1>
 <h3 align="center">A passionate researcher from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaks1603&label=Profile%20views&color=0e75b6&style=flat" alt="chaks1603" /> </p>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/55/0e/3b/550e3b63b86fea569a39ed9469cdccc8.gif"> 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/08/a5/3a/08a53a51f44010d8e1d9ee16676590c1.gif"> 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/72/43/21/72432127f6dddc93bcad188cf1811f19.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/62/b7/4e/62b74ef25366e34a9f7ae84d5744cba3.gif"> 
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/12/ba/75/12ba7514444f64479eb43dd9ca497188.gif"> 
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f1/6b/85/f16b85e9f069bab0130ac11a9ffe9a5a.gif">
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e6/22/3a/e6223ab875b7cb0588df8492d6d44d16.gif">
 
 - 🔭 I’m currently working on **Steller Physics and Evoluation**
