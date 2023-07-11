@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/f1/6b/85/f16b85e9f069bab0130ac11a9ffe9a5a.gif">
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/12/ba/75/12ba7514444f64479eb43dd9ca497188.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/Chaks1603/Non-Linear-Dynamics-Chaos/blob/main/animated-lorenz-attractor.gif">
 
 - 🔭 I’m currently working on **Steller Physics and Evoluation**
 
